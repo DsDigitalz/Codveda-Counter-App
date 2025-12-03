@@ -105,6 +105,6 @@ body {
   color: var(--btn-text-color2);
 }
 
-.btn-group .btn-reset {
+.btn-group .btn reset {
   background-color: var(--btn-bg-reset);
 }
